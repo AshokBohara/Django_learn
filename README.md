@@ -1,2 +1,2 @@
 learning python
-building django base websites..
+building django base website
