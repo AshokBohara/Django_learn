@@ -1,2 +1,2 @@
-#first program in python to print hello world
+#first program in python
 print ("hello world!")
